@@ -9,14 +9,14 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://docs.google.com/document/d/11Qwe6PLRu-PXIXNPYg7TvyMs5UfrD36tfpdfaoZob6k/edit?usp=sharing
     
   - title: "Guide"
     url: /markdown/
