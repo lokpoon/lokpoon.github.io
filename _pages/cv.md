@@ -9,5 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-# Download link:
-[Google Doc](https://docs.google.com/document/d/11Qwe6PLRu-PXIXNPYg7TvyMs5UfrD36tfpdfaoZob6k/edit?usp=sharing)
+# [Google Docs link](https://docs.google.com/document/d/11Qwe6PLRu-PXIXNPYg7TvyMs5UfrD36tfpdfaoZob6k/edit?usp=sharing)
