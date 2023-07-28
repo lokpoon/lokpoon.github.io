@@ -3,7 +3,7 @@ title: "MoonShine: A software-hardware system for simulating moonlight ground il
 collection: publications
 permalink: /publication/2023-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023
+date: 2023-01-01
 venue: 'Methods in Ecology and Evolution'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Poon, C. L., Jenks, I. T., & Crampton, W.G.R (2023). MoonShine: A software-hardware system for simulating moonlight ground illuminance and re-creating artificial moonlight cycles in a laboratory environment. Methods in Ecology and Evolution.'
