@@ -9,7 +9,7 @@ redirect_from:
 ---
 ![rondoni black copy.jpg](../images/rondoni black copy.jpg "rondoni black copy.jpg")
 
-I study the behavioral ecology of Neotropical electric fish, focusing on their electric and visual senses. These intriguing nocturnal fish predominantly sense their environment with an active electrosensory system, something we humans cannot intuitively comprehend. Their unique electric signals enable me to precisely quantify foraging activity, thus facilitating the investigation of various ecological questions.
+I study the behavioral ecology of Neotropical electric fish, via understanding their electric and visual senses. These nocturnal fish predominantly sense their environment with an active electrosensory system. Their unique electric signals enable me to precisely quantify foraging activity, thus facilitating the investigation of various ecological questions.
 
 Animals are perpetually making foraging decisions based on a complex assortment of factors, including energetic needs and predation risks. I am interested in how animals make these decisions under interacting circumstances, often involving trade-offs.
 
