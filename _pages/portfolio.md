@@ -6,5 +6,4 @@ author_profile: true
 redirect_from:
   - /portfolio
 ---
-
-![poster copy.jpg](../_portfolio/poster copy.jpg)
+![poster copy.jpg](../_portfolio/poster copy.jpg =x1000)
