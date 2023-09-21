@@ -6,7 +6,6 @@ author_profile: true
 redirect_from: 
   - /portfolio/
   - /portfolio.html
-  - layout: archive
 ---
 ![rondoni black copy.jpg](../images/rondoni black copy.jpg "rondoni black copy.jpg")
 
