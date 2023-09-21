@@ -8,6 +8,7 @@ redirect_from:
 ---
 Copyright © C. Lok Poon 2023
 # Photography
-![steam-fish-1](../_portfolio/poster copy.jpg){: width="800" }
+![fishposter](../_portfolio/poster copy.jpg){: width="800" }
 
 #  Artworks
+![biopainting](../_portfolio/IMG_8614.jpg){: width="800" }
