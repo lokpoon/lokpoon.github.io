@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /portfolio.html
 title: "Photography"
 excerpt: "About me"
 author_profile: false
