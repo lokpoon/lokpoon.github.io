@@ -7,4 +7,4 @@ redirect_from:
   - /portfolio
 ---
 
-Hello
+![poster copy.jpg](../_portfolio/poster copy.jpg)
