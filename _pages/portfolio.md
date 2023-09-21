@@ -1,8 +1,10 @@
 ---
-title: "Page Not Found"
-excerpt: "Page not found. Your pixels are in another canvas."
-sitemap: false
-permalink: /portfolio.html
+layout: archive
+title: "Photography"
+permalink: /portfolio/
+author_profile: true
+redirect_from:
+  - /portfolio
 ---
 
 Hello
