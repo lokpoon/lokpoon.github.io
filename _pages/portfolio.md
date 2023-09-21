@@ -2,6 +2,7 @@
 permalink: /
 title: "Photography"
 excerpt: "About me"
+author_profile: false
 redirect_from: 
   - /portfolio/
   - /portfolio.html
