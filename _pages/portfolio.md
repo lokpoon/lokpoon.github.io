@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /portfolio
 ---
-<img src="../_portfolio/poster copy.jpg" width="800">
+<img src="/_portfolio/poster copy.jpg" width="800">
