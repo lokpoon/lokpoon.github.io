@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /portfolio
 ---
-Copyright © C. Lok Poon 2023
+Copyright © Lok Poon 2023
 # Photography
 ![fishposter](../_portfolio/poster copy.jpg){: width="800" }
 
