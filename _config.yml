@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "C. Lok Poon"
+title                    : "Lok Poon"
 title_separator          : "-"
-name                     : &name "C. Lok Poon"
+name                     : &name "Lok Poon"
 description              : &description "Biology PhD candidate."
 url                      : https://lokpoon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "C. Lok Poon"
+  name             : "Lok Poon"
   avatar           : "lok_face.jpg"
   bio              : "Biology PhD candidate"
   location         : "Orlando, FL, USA"
   employer         : "University of Central Florida"
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "poonchiulok@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Lok-Poon-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -176,13 +176,13 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
