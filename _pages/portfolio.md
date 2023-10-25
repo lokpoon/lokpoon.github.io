@@ -25,5 +25,7 @@ Copyright © Lok Poon 2023
 ![biopainting](../_portfolio/helogenes.jpg){: width="400" }
 ![heron.jpg](../_portfolio/heron.jpg "heron.jpg"){: width="300" }
 #  Other works
-<img src="{{https://lokpoon.github.io | prepend: https://lokpoon.github.io/}}images/tillandsia.jpg" alt="Untitled" />
-<img src="{{ "/images/tillandsia.jpg" | prepend:""| prepend: https://lokpoon.github.io}}" alt="Untitled" />
+
+
+![biodepart.jpg](../_portfolio/biodepart.jpg "biodepart.jpg"){: width="500" }
+![tillandsia.jpg](../_portfolio/tillandsia.jpg){: width=“200" }
