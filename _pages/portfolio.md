@@ -28,4 +28,5 @@ Copyright © Lok Poon 2023
 
 
 ![biodepart.jpg](../_portfolio/biodepart.jpg "biodepart.jpg"){: width="500" }
-![tillandsia.jpg](../_portfolio/tillandsia.jpg){: width=“200" }
+<br/><br/> 
+![tillandsia.jpg](../_portfolio/tillandsia.jpg){: width="500" }
