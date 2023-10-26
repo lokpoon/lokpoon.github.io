@@ -27,6 +27,16 @@ Copyright © Lok Poon 2023
 #  Other works
 
 
-![biodepart.jpg](../_portfolio/biodepart.jpg "biodepart.jpg"){: width="500" }
+![biodepart.jpg](../_portfolio/biodepart.jpg "biodepart.jpg"){: width="600" }
 <br/><br/> 
-![tillandsia.jpg](../_portfolio/tillandsia.jpg){: width="500" }
+![tillandsia.jpg](../_portfolio/tillandsia.jpg "tillandsia.jpg"){: width="400" }
+<br/><br/>
+![MG_3789.JPG](../_portfolio/MG_3789.JPG){: width="600" }
+<br/><br/>
+![DSC04422.jpg](../_portfolio/DSC04422.jpg "DSC04422.jpg"){: width="600" }
+<br/><br/>
+![DSC07924.JPG](../_portfolio/DSC07924.JPG){: width="600" }
+<br/><br/>
+![DSC07959.JPG](../_portfolio/DSC07959.JPG){: width="600" }
+<br/><br/>
+![IMG_0712.JPG](../_portfolio/IMG_0712.JPG){: width="400" }

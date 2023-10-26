@@ -12,7 +12,7 @@ redirect_from:
  
 Pulse type electric fish generate discrete electric signals at constant rates. The pulse rate serves as a proxy for their sensory sampling rate. Although there is an overlap in pulse rates among species, distinct pulse rate traits are apparent even within the same genus. These traits encompass the absolute day/night rate, day/night rate difference, stability, and rate modulation features. I have documented pulse rate traits from 20 species of pulse-type gymnotiforms to understand the behavioral diversity.
 <br/><br/> 
-![waveform.jpg](../_portfolio/waveform.jpg){: width="550" }
+![waveform.jpg](../_portfolio/waveform.jpg){: width="500" }
 #### Example of a pulse type electric signal (W. G. R. Crampton 2019).
 
 ## Dim light vision
@@ -29,7 +29,7 @@ Foraging is necessary but dangerous, therefore the trade-off decision between fo
 Predation risk and food availability often fluctuate over time, leading to a temporal landscape of fear analogous to spatial heterogeneity. Utilizing electric signal loggers designed in our lab, I documented the movement activity of a community of gymnotiforms in an Amazon rainforest stream over a moonlight cycle. Additionally, I replicated an experiment with captive fish by re-creating the moonlight cycle.
 <br/><br/> 
 ![heron_footage.gif](../_portfolio/heron_footage.gif){: width="500" }
-#### A boat-billed heron hunting at night with vision.
+#### A boat-billed heron hunting visually at night.
  
 ## Chronobiology
 
