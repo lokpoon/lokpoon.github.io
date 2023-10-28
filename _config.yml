@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lok Poon"
 title_separator          : "-"
 name                     : &name "Lok Poon"
-description              : &description "Biology PhD candidate."
+description              : &description "Biology PhD candidate"
 url                      : https://lokpoon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lokpoon/lokpoon.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lok Poon"
   avatar           : "lok_face.jpg"
-  bio              : "Biology PhD candidate"
+  bio              : "Biology PhD candidate\nCrampton Electric Fish Lab"
   location         : "Orlando, FL, USA"
   employer         : "University of Central Florida"
   pubmed           : 
