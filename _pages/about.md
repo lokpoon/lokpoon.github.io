@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, welcome! I' Lok."
+title: "Hi, welcome! I'm Lok."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
