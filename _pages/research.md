@@ -10,10 +10,14 @@ redirect_from:
 # Sensory ecology
 ## Electric signals
  
-Pulse type electric fish (Teleostei, Gymnotiformes) discharge discrete electric signals at constant rates. The rate of the discharge, pulse rate, serves as a proxy for their sensory sampling rate. Although there is an overlap in pulse rates among species, distinct pulse rate traits are apparent within a community even within the same genus. These traits encompass the absolute day/night rate, day/night rate difference, stability, and rate modulation features. I have documented pulse rate traits from 20 species of pulse-type gymnotiforms to understand the behavioral diversity.
+Electric fish constantly emit species-specific signals that often provide crucial information for species identification. These signals can be continuous sinusoidal waves (wave-type) or discrete waveforms (pulse-type). The discharge rate of pulse-type fish serves as a proxy for sensory sampling rate, allowing long-term monitoring of activity level. Part of my research describes species diversity in pulse rate and its variation over the diurnal cycle, showing that these parameters span a wide range but also overlap strongly among species.
 <br/><br/> 
 ![waveform.jpg](../_portfolio/waveform.jpg){: width="500" }
 #### Example of a pulse type electric signal (W. G. R. Crampton 2019).
+
+<br/><br/> 
+![circular_plot.jpg](../_portfolio/circular_plot.jpg){: width="400" }
+#### Plot of a sand knifefish pulse rate over 24 hours.
 
 ## Dim light vision
 
@@ -25,8 +29,11 @@ Most gymnotiforms have poor visual acuity because they rely predominantly on the
 # Behavioral ecology
 ## Temporal landscape of fear
 
-Foraging is necessary but dangerous, therefore the trade-off decision between foraging and hiding is crucial for survival. 
-Predation risk and food availability often varies over time, leading to a temporal landscape of fear analogous to spatial heterogeneity. Utilizing electric signal loggers designed in our lab, I documented the movement activity of a community of gymnotiforms in an Amazon rainforest stream over a moonlight cycle. Additionally, I replicated an experiment with captive fish by re-creating the moonlight cycle.
+Being nocturnal and relying primarily on active electroreception for navigation and foraging, most gymnotiforms have poor visual acuity, as suggested by their small eyes. The sensory trade-off hypothesis proposes that sensory systems are costly to maintain, limiting the extent to which multiple modalities can be highly developed. Despite this expectation, in shallow, clear rainforest streams I observed substantial interspecific variation in body size–adjusted eye size, suggesting that some species use nighttime vision to supplement electroreception when moonlight is available.
+
+<br/><br/> 
+
+Results from four species showed that larger eyes predicted weaker moonlight avoidance: the largest-eyed species remained active across the lunar cycle, whereas small-eyed species reduced activity during moonlit periods. During dark periods, all species likely rely primarily on electroreception to locate prey. During bright periods, small-eyed species may hide because the short detection range of electroreception limits early predator detection, whereas large-eyed species may remain active by using visual vigilance; the extra foraging time could help meet the energetic costs of maintaining both visual and electrosensory systems.
 <br/><br/> 
 ![heron_footage.gif](../_portfolio/heron_footage.gif){: width="500" }
 #### A boat-billed heron hunting visually at night.
@@ -47,6 +54,3 @@ While foraging is particularly dangerous during certain times (e.g., full moon),
 
 ## Behavioral evolution
 Given the diversity in electric signals among the pulse-type gymnotiforms (comprising 20 species in three families), I plan to apply ancestral state reconstruction to investigate the pattern of pulse rate trait diversity. The main hypotheses are that pulse rate traits exhibit phylogenetic inertia, and that a trade-off exists between pulse rate, signal duration, and signal amplitude.
-<br/><br/> 
-![circular_plot.jpg](../_portfolio/circular_plot.jpg){: width="400" }
-#### Plot of a sand knifefish pulse rate over 24 hours.
