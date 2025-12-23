@@ -9,13 +9,9 @@ redirect_from:
 ---
 ![rondoni black copy.jpg](../images/rondoni black copy.jpg "rondoni black copy.jpg")
 
-I study the behavioral ecology of Neotropical electric fish, via understanding their electric and visual senses. These nocturnal fish sense their environment predominantly with an active electrosensory system. Their unique electric signals enable me to precisely quantify foraging activity, thus facilitating the investigation of various ecological questions.
+I study the sensory and behavioral ecology of predation risk, using Amazonian electric fish as a study system. I am particularly interested in how behavior is shaped by interactions between external environmental factors (e.g., moonlight, canopy cover) and internal factors (e.g., sensory capacity, body condition).
 
-The question I am interested in is how animals make foraging decisions under conflicting circumstances, often involving trade-offs. Animals are required to perpetually contemplate _when_ it is a good time to forage under a complex assortment of factors, such as energetic needs and predation risks.
-
-During my PhD dissertation, I studied the Neotropical electric fish response to moonlight in the community, population, and individual level. Among the speceis that I investigated, the sand knife fish (_Gymnorhamphichthys rondoni_) showed the most remarkable moonlight avoidance behavior. This behavior is mediated by both external factors (e.g., moonlight and daylight) and internal factors (e.g., body condition and age). In addition, fish in poor body condition override their innate fear of moonlight to forage under conditions of high predation risk. I also revealed that sand knife fish are able to anticipate the timming of moonrise despite the complexity of the moonlight cycle.
-
-I approach research questions through field observational studies and controlled lab experiments. The core of my work involves doing field work in tropical rainforests, keeping fish in aquariums, and developing research tools!
+I explore these questions in Amazonian electric fishes, a group including the electric eel and ~300 species of weakly electric knifefishes. These nocturnal fishes sense their environment predominantly through active electrolocation, detecting distortions in self-generated electric fields. Because these unusual signals are emitted continuously, I can precisely quantify movement and foraging activity, enabling novel field observations using autonomous loggers as well as controlled laboratory experiments.
 
 
 ---
