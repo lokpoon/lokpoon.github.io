@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # Sensory ecology
-## Electric signals
+## Electric signal diversity
  
 Electric fish constantly emit species-specific signals that often provide crucial information for species identification. These signals can be continuous sinusoidal waves (wave-type) or discrete waveforms (pulse-type). The discharge rate of pulse-type fish serves as a proxy for sensory sampling rate, allowing long-term monitoring of activity level. Part of my research describes species diversity in pulse rate and its variation over the diurnal cycle, showing that these parameters span a wide range but also overlap strongly among species.
 <br/><br/> 
@@ -19,9 +19,9 @@ Electric fish constantly emit species-specific signals that often provide crucia
 ![circular_plot.jpg](../_portfolio/circular_plot.jpg){: width="400" }
 #### Plot of a sand knifefish pulse rate over 24 hours.
 
-## Dim light vision
+## How vision and electric sense predict species activity patterns 
 
-Electric fish are nocturnal and navigate and forage mainly using active electroreception, and many species have small eyes. In shallow, clear rainforest streams, however, eye size varies strongly among species, suggesting that some fishes may use vision at night when moonlight is available. Across four species, larger body size–adjusted eyes predicted weaker moonlight avoidance: the largest-eyed species remained active across the lunar cycle, likely using vision to avoid predators to maintain foraging, whereas small-eyed species reduced activity during moonlit periods. These results highlight the importance of species-specific sensory adaptations for predicting behavior and ecological effects, and they provide insight into sensory trade-offs.
+Electric fish are nocturnal and navigate and forage mainly using active electrolocation, and many species have small eyes. In shallow, clear rainforest streams, however, eye size varies strongly among species, suggesting that some fishes may use vision at night when moonlight is available. Across four species, larger body size–adjusted eyes predicted weaker moonlight avoidance: the largest-eyed species remained active across the lunar cycle, likely using vision to avoid predators to maintain foraging, whereas small-eyed species reduced activity during moonlit periods. These results highlight the importance of species-specific sensory adaptations for predicting behavior and ecological effects, and they provide insight into sensory trade-offs.
 <br/><br/> 
 ![rondoni_forage.gif](../_portfolio/rondoni_forage.gif){: width="500" }
 #### Infrared footage of a wild sand knifefish foraging in the dark.
@@ -31,7 +31,7 @@ Electric fish are nocturnal and navigate and forage mainly using active electror
  
 ## Temporal landscape of fear — Moonlight
 
-The mere perception of predation risk can strongly influence individuals behavior and drive large-scale population changes. Many nocturanl species percieve moonlight as predation risk, because many visually-oriented predators imrpove hunting success with increased light level. 
+The mere perception of predation risk can strongly influence individuals behavior and drive large-scale population changes. Many nocturanl species percieve moonlight as predation risk, but how moonlight varies over time, location, and habitat features remain poorly understood.
 
 
 # Behavioral ecology
