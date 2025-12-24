@@ -20,8 +20,6 @@ To address the lack of open-source solutions for predicting, re-creating, and ma
 <span style="font-variant:small-caps;">MoonShine</span> includes multiple features for re-creating and manipulating light cycles. It supports color shifting of the LEDs (by adjusting RGBW intensity ratios) to approximate the spectrum of natural moonlight, and to mimic habitat-specific conditions or certain types of light pollution.
 <br/><br/> 
 Furthermore, the moonlight illuminance predicted by <span style="font-variant:small-caps;">MoonShineR</span> is useful for field ecologists who use moonlight as a quantitative predictor. Finally, to provide laboratory-housed animals with full diurnal light cycles, <span style="font-variant:small-caps;">MoonShine</span> allows researchers to re-create natural twilight and sunlight regimes.
-<br/><br/> 
-<span style="font-variant:small-caps;">MoonShine</span> has two components:
 
 ## <span style="font-variant:small-caps;">MoonShineR</span>
 An R package that predicts ground-level moonlight illuminance (lux) at defined intervals for a specified location and time range. It can also predict sunlight and twilight. It warns the user of lunar eclipses during the prediction period.
