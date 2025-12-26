@@ -3,6 +3,7 @@ permalink: /
 title: "Hi, welcome! I'm Lok (諾)."
 excerpt: "About me"
 author_profile: true
+classes: wide
 redirect_from: 
   - /about/
   - /about.html
