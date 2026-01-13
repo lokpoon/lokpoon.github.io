@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Hi, welcome! I'm Lok (諾)."
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
