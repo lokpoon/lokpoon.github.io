@@ -19,4 +19,5 @@ In addition, I examine sensory and behavioral interactions during predator-prey 
 I address these questions in Amazonian electric fishes, a group that includes the electric eel and ~300 species of weakly electric knifefishes. These nocturnal fishes sense their environment predominantly through active electrolocation, detecting distortions in their self-generated electric fields. Because these unusual signals are emitted continuously, I can precisely quantify movement and foraging activity, enabling novel field observations using autonomous loggers as well as controlled laboratory experiments.
 
 
+
 ---
