@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "About"
+title: "About <meta name="google-site-verification" content="Gq5BbONJT9vBhgzxQ5xhhVWLAS6wU-JbpkFdlcUs93I" />"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
