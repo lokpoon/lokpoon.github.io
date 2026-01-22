@@ -36,10 +36,8 @@ The mere perception of predation risk can strongly influence individual behavior
 ![lunar_plot.jpg](../_portfolio/lunar_plot.jpg){: width="400" }
 
 #### Sand knifefish nighttime activity (black area) across a lunar cycle, with each row representing one night. The heatmap shows moonlight illuminance.
-
+<br/><br/> 
 # Behavioral ecology
-
-
 ## State-dependent risk taking
 
 Foraging can be especially dangerous at certain times (e.g., the full moon), yet some individuals still take risks, overriding avoidance behavior. I investigated how body condition and life stage interact to shape risk-taking decisions.
