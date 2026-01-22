@@ -34,6 +34,9 @@ Electric fish constantly emit species-specific signals that enables species reco
 
 ![circular_plot.jpg](../_portfolio/circular_plot.jpg){: width="400" }
 #### Pulse rate of a knifefish over 24 hours.
+
+<br/><br/>
+<br/><br/>
 # Behavioral ecology
 ## State-dependent risk taking
 Foraging can be especially dangerous at certain times (e.g., the full moon), yet some individuals still take risks, overriding avoidance behavior. I investigated how body condition and life stage interact to shape risk-taking decisions.
