@@ -34,17 +34,14 @@ Electric fish constantly emit species-specific signals that enables species reco
 
 ![circular_plot.jpg](../_portfolio/circular_plot.jpg){: width="400" }
 #### Pulse rate of a knifefish over 24 hours.
-<br/><br/> 
 # Behavioral ecology
 ## State-dependent risk taking
 Foraging can be especially dangerous at certain times (e.g., the full moon), yet some individuals still take risks, overriding avoidance behavior. I investigated how body condition and life stage interact to shape risk-taking decisions.
-<br/><br/> 
 ![big_small_rondoni.jpg](../_portfolio/big_small_rondoni.jpg){: width="800" }
 #### Size comparison between an adult and a juvenile sand knifefish.
 
 ## Chronobiology
 
 Many biological rhythms are endogenous, with circadian rhythms being the best studied. Once entrained, an endogenous rhythm can persist without external cues. Evidence for an endogenous lunar rhythm in foraging has been scarce, because it must adjust to the daily delay in moonrise and moonset; however, I found support for this possibility in experiments with sand knifefish.
-<br/><br/> 
 ![moonlight_cycle.gif](../_portfolio/moonlight_cycle.gif){: width="700" }
 #### Progression of nightly moonlight illuminance across a lunar cycle, simulated by MoonShineR.
