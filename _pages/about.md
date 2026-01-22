@@ -8,6 +8,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<meta name="google-site-verification" content="Gq5BbONJT9vBhgzxQ5xhhVWLAS6wU-JbpkFdlcUs93I" />
 ![rondoni black copy.jpg](../images/rondoni black copy.jpg "rondoni black copy.jpg")
 
 ![field_photo.jpg](../images/field_photo.jpg "field_photo.jpg")
