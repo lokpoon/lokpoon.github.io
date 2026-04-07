@@ -25,6 +25,9 @@ The mere perception of predation risk can strongly influence individual behavior
 
 #### Sand knifefish nighttime activity (black area) across a lunar cycle, with each row representing one night. The heatmap shows moonlight illuminance.
 
+![lunar_plot.jpg](../_portfolio/m_rsbl.2026.22.issue-4.cover.jpg){: width="400" }
+
+#### Biology Letters cover, Volume 22, Issue 4, April 2026.
 ## 3) Electric signal diversity
  
 Electric fish constantly emit species-specific signals that enables species recognition. These signals can be continuous sinusoidal waves (wave-type) or discrete waveforms (pulse-type). In pulse-type species, discharge rate is a proxy for sensory sampling rate, allowing long-term monitoring of activity. Part of my research describes interspecific diversity in pulse rate and its diurnal variation, showing that these parameters span a wide range but also overlap strongly among species.
