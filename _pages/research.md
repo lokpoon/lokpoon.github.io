@@ -33,7 +33,7 @@ The mere perception of predation risk can strongly influence individual behavior
 Electric fish constantly emit species-specific signals that enables species recognition. These signals can be continuous sinusoidal waves (wave-type) or discrete waveforms (pulse-type). In pulse-type species, discharge rate is a proxy for sensory sampling rate, allowing long-term monitoring of activity. Part of my research describes interspecific diversity in pulse rate and its diurnal variation, showing that these parameters span a wide range but also overlap strongly among species.
 
 ![waveform.jpg](../_portfolio/waveform.jpg){: width="500" }
-#### Example of a pulse-type electric signal (W. G. R. Crampton 2019).
+#### Example of a pulse-type electric signal (Crampton 2019).
 
 ![circular_plot.jpg](../_portfolio/circular_plot.jpg){: width="400" }
 #### Pulse rate of a knifefish over 24 hours.
