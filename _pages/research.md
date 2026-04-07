@@ -36,7 +36,7 @@ Electric fish constantly emit species-specific signals that enables species reco
 #### Example of a pulse-type electric signal (Crampton 2019).
 
 ![circular_plot.jpg](../_portfolio/circular_plot.jpg){: width="400" }
-#### Pulse rate of a knifefish over 24 hours.
+#### EOD pulse rate of a knifefish over 24 hours. The shaded upper half indicates nighttime. Knifefish emerge at sunset to forage, accompanied by an increase in pulse rate.
 
 <br/><br/>
 <br/><br/>
