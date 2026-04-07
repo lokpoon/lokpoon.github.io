@@ -25,7 +25,7 @@ The mere perception of predation risk can strongly influence individual behavior
 
 #### Sand knifefish nighttime activity (black area) across a lunar cycle, with each row representing one night. The heatmap shows moonlight illuminance.
 
-![lunar_plot.jpg](../_portfolio/m_rsbl.2026.22.issue-4.cover.jpg){: width="400" }
+![lunar_plot.jpg](../_portfolio/m_rsbl.2026.22.issue-4.cover.jpg){: width="300" }
 
 #### Biology Letters cover, Volume 22, Issue 4, April 2026.
 ## 3) Electric signal diversity
