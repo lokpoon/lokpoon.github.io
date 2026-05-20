@@ -34,8 +34,9 @@ Coverage in [BBC Wildlife](https://www.discoverwildlife.com/animal-facts/electri
 <small><strong>Example of a pulse-type electric signal (Crampton 2019).<small><strong>
 <br>
 <br>
-![circular_plot.jpg](../_portfolio/circular_plot.jpg){: width="400" }
+![circular_plot.jpg](../_portfolio/circular_plot.jpg){: width="400" }<br>
 <small><strong>EOD pulse rate of a knifefish over 24 hours. Pulse rate increases after sunset, when knifefish emerge to forage.<small><strong>
+<br>
 # Behavioral ecology
 ## 1) State-dependent risk taking
 <p>Foraging can be especially dangerous at certain times, such as during the full moon, yet some individuals still take risks and override avoidance behavior. Body condition and life stage are important individual-level traits that influence trade-offs among growth, reproduction, and safety. In adult sand knifefish, individuals in lower body condition increased foraging under high predation risk, but this pattern was not observed in juveniles.</p>
@@ -46,6 +47,5 @@ Coverage in [BBC Wildlife](https://www.discoverwildlife.com/animal-facts/electri
 ![moonlight_cycle.gif](../_portfolio/moonlight_cycle.gif "moonlight_cycle.gif"){: width="600" }<br>
 <small><strong>Progression of nightly moonlight illuminance across a lunar cycle. Nocturnal animals must track this complex, shifting lightscape from one night to the next to optimally allocate activity.<small><strong><br>
 <br>
-![lunar_plot.jpg](../_portfolio/m_rsbl.2026.22.issue-4.cover.jpg "lunar_plot.jpg"){: width="350" }
-
+![lunar_plot.jpg](../_portfolio/m_rsbl.2026.22.issue-4.cover.jpg "lunar_plot.jpg"){: width="350" }<br>
 <small><strong>[Biology Letters cover](https://royalsocietypublishing.org/rsbl/article/22/4/20250704/481167/Timescapes-of-fear-exogenous-and-endogenous), Volume 22, Issue 4, April 2026. Sand knifefish nighttime emergence involves an endogenous rhythm that operates around the lunar cycle.<small><strong>
