@@ -12,11 +12,9 @@ redirect_from:
 
 ![field_photo.jpg](../images/field_photo.jpg "field_photo.jpg")
 
-I study the sensory and behavioral ecology of fear under predation risk, using Amazonian electric fish as a study system. I am particularly interested in how activity and behavior are shaped by interactions between external environmental factors (e.g., moonlight, canopy cover) and internal factors (e.g., sensory capacity, body condition).
-
-I also examine sensory and behavioral interactions during predator-prey encounters, particularly in systems where signals are crucial but conspicuous and therefore require strategic deployment.
-
-I address these questions in Amazonian electric fishes, a group that includes the electric eel and ~300 species of weakly electric knifefishes. These nocturnal fishes sense their environment predominantly through active electrolocation, detecting distortions in their self-generated electric fields. Because these signals are emitted continuously, I can precisely quantify movement and foraging activity, enabling novel field observations using autonomous loggers as well as controlled laboratory experiments.
+I study how animals sense and respond to predation risk, using Amazonian electric fish as a model system. My work asks how nocturnal behavior is shaped by external risk cues, such as moonlight and predator signals, and by species- and individual-level traits, such as sensory capacity, body condition, and life stage. I am especially interested in active sensing systems, where the signals animals use to detect the world can also reveal them.  
+Because electric fish continuously emit signals for navigation, foraging, and communication, their behavior can be recorded with high fidelity in natural streams and laboratory experiments. My work has shown how electric fish track moonlight, adjust foraging decisions, and use strategic silence during predator-prey encounters.  
+To support this work, I also develop tools for studying nocturnal light environments, including MoonShine, an open-source software–hardware system for predicting, recreating, and manipulating natural moonlight cycles in the laboratory.
 
 
 
