@@ -25,16 +25,16 @@ redirect_from:
 
 <p>MoonShineR also generates lighting schedules for laboratory experiments. In addition to moonlight, it can predict sunlight and twilight conditions, allowing researchers to create full diel light cycles when needed. It also warns users of lunar eclipses during the prediction period.</p>
 
-![moonshine](../images/moonshineR_example.jpg "moonshine"){: width="700" }
+![moonshine](../images/moonshineR_example.jpg "moonshine"){: width="700" }<br>
 
-### MoonShineR package demonstration. The _predict_lux_ function predicts ground illuminance over time, and the _plot_lux_ function outputs a plot of the prediction.
+*MoonShineR package demonstration. The _predict_lux_ function predicts ground illuminance over time, and the _plot_lux_ function outputs a plot of the prediction.*
 
 ## <span style="font-variant:small-caps;">MoonShineP</span>
 <p>MoonShineP is a Python program that runs on a Raspberry Pi and uses illuminance values from MoonShineR to control a diffused array of individually addressable RGBW LEDs. The LEDs gradually brighten and dim over time, allowing natural or experimentally modified light regimes to be re-created under controlled laboratory conditions.</p>
 
-![moonshine](../images/moonshineP_diagram.jpg "moonshine"){: width="600" }
+![moonshine](../images/moonshineP_diagram.jpg "moonshine"){: width="600" }<br>
 
-### MoonShineP hardware, involving a Raspberry Pi connected to an array of LEDs housed within light-diffusion boxes.
+*MoonShineP hardware, involving a Raspberry Pi connected to an array of LEDs housed within light-diffusion boxes.*
 
 ## Applications
 <p>MoonShine can be used to study animal responses to moonlight, altered lunar cycles, twilight, sunlight, and artificial night lighting. It is relevant to studies of nocturnal behavior, sensory ecology, chronobiology, visual ecology, physiology, and laboratory animal care.</p>
