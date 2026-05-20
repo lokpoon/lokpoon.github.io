@@ -12,7 +12,7 @@ redirect_from:
 <p>Electric fish are nocturnal and rely mainly on self-generated electrolocation signals to navigate and forage, so most species have small eyes. Yet in small rainforest streams, eye size varies among species, suggesting that some species also use vision when moonlight is available. Across four species, larger eyes predicted weaker moonlight avoidance: the largest-eyed species remained active throughout the lunar cycle, likely using vision to detect and evade predators, whereas small-eyed species reduced activity during moonlit periods. These results show how sensory traits shape nocturnal behavior and ecological interactions.</p>
 
 ![rondoni_forage.gif](../_portfolio/rondoni_forage.gif "rondoni_forage.gif"){: width="450" }
-### Infrared footage of a wild sand knifefish foraging in the dark.
+*Infrared footage of a wild sand knifefish foraging in the dark*.
 ## 2) Moonlight as a temporal landscape of fear
 <p>The perception of predation risk, even without direct predation, can strongly shape animal behavior and population dynamics. Many nocturnal species perceive moonlight as a cue of increased risk from visually oriented predators, but ecological studies often simplify how moonlight changes across the night and lunar cycle. I showed that lunar phobic animals can closely track night-to-night shifts in moonrise and moonset.</p>
 ![heron_footage.gif](../_portfolio/heron_footage.gif){: width="450" }
