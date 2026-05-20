@@ -34,7 +34,9 @@ The perception of predation risk, even without direct predation, can strongly sh
 
 For animals that use active sensing, such as echolocation and electrolocation, the signals used to sense the world can also reveal them. This trade-off is especially important in predator-prey systems where both sides share the same active sense and can intercept each other’s signals. In Amazonian streams, electric eels and knifefish both reduce this risk by briefly going electrically silent, showing how active sensing systems can shift between detection and stealth.
 
-Coverage in BBC Wildlife: https://www.discoverwildlife.com/animal-facts/electric-eel-signal-suppression
+<br/><br/>
+
+Coverage in [BBC Wildlife](https://www.discoverwildlife.com/animal-facts/electric-eel-signal-suppression)
 
 ![graphicalabstract.jpg](../_portfolio/graphicabstract.jpg){: width="450" }
 #### Graphical abstract from Poon & Crampton 2026, Current Biology https://doi.org/10.1016/j.cub.2026.02.026
