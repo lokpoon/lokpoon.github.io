@@ -16,9 +16,7 @@ I study how animals sense and respond to predation risk, using Amazonian electri
 
 <br>
 
-Because electric fish continuously emit signals for navigation, foraging, and communication, their behavior can be recorded with high fidelity in natural streams and laboratory experiments. My work has shown how electric fish track moonlight, adjust foraging decisions, and use strategic silence during predator-prey encounters.
-
-<br/><br/>
+Because electric fish continuously emit signals for navigation, foraging, and communication, their behavior can be recorded with high fidelity in natural streams and laboratory experiments. My work has shown how electric fish track moonlight, adjust foraging decisions, and use strategic silence during predator-prey encounters.<br>
 
 To support this work, I also develop tools for studying nocturnal light environments, including MoonShine, an open-source software–hardware system for predicting, recreating, and manipulating natural moonlight cycles in the laboratory.
 

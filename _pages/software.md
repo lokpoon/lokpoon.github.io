@@ -9,7 +9,7 @@ redirect_from:
 
 # <span style="font-variant:small-caps;">MoonShine</span>
 ![moonshine](../images/moonshine_logo.png "moonshine"){: width="300" }
-<br/><br/> 
+<br>
 - [<span style="font-variant:small-caps;">MoonShine</span> GitHub Repository](https://github.com/Crampton-Lab/MoonShine)
 - [<span style="font-variant:small-caps;">MoonShine</span> Instruction Manual](https://lokpoon.github.io/MoonShine_manual/overview.html)
 
@@ -26,15 +26,16 @@ MoonShineR also generates lighting schedules for laboratory experiments. In addi
 
 ![moonshine](../images/moonshineR_example.jpg "moonshine"){: width="1000" }
 
-#### MoonShineR pagakge demonstration. <predict_lux> function predicts ground illumiances over time. <plot_lux> function outputs a plot of the prediction.
+#### MoonShineR package demonstration. The _predict_lux_ function predicts ground illuminance over time, and the _plot_lux_ function outputs a plot of the prediction.
 
 ## <span style="font-variant:small-caps;">MoonShineP</span>
-MoonShineP is a Python program that runs on a Raspberry Pi and uses illuminance values from MoonShineR to control a diffused array of individually addressable RGBW LEDs. The LEDs gradually brighten and dim over time, allowing natural or experimentally modified light regimes to be re-created under controlled laboratory conditions.
-<br/><br/> 
+MoonShineP is a Python program that runs on a Raspberry Pi and uses illuminance values from MoonShineR to control a diffused array of individually addressable RGBW LEDs. The LEDs gradually brighten and dim over time, allowing natural or experimentally modified light regimes to be re-created under controlled laboratory conditions. <br>
+
 ![moonshine](../images/moonshineP_diagram.jpg "moonshine"){: width="600" }
 
-#### MoonShineP hardware involving a Raspberry Pi connected to an array of LEDs, housed within light diffusion boxes.
+#### MoonShineP hardware, involving a Raspberry Pi connected to an array of LEDs housed within light-diffusion boxes.
 
 ## Applications
-MoonShine can be used to study animal responses to moonlight, altered lunar cycles, twilight, sunlight, and artificial night lighting. It is relevant to studies of nocturnal behavior, sensory ecology, chronobiology, visual ecology, physiology, and laboratory animal care.  
+MoonShine can be used to study animal responses to moonlight, altered lunar cycles, twilight, sunlight, and artificial night lighting. It is relevant to studies of nocturnal behavior, sensory ecology, chronobiology, visual ecology, physiology, and laboratory animal care.<br>
+
 Overall, MoonShine provides an open-source framework for quantifying and experimentally manipulating nocturnal light environments, rather than representing moonlight only by moon phase.
