@@ -39,7 +39,7 @@ For animals that use active sensing, such as echolocation and electrolocation, t
 Coverage in [BBC Wildlife](https://www.discoverwildlife.com/animal-facts/electric-eel-signal-suppression)
 
 ![graphicalabstract.jpg](../_portfolio/graphicabstract.jpg){: width="450" }
-#### Graphical abstract from Poon & Crampton 2026, Current Biology https://doi.org/10.1016/j.cub.2026.02.026
+#### Graphical abstract from Poon & Crampton 2026, [Current Biology](https://doi.org/10.1016/j.cub.2026.02.026).
 
 <br/><br/>
 
@@ -69,6 +69,6 @@ Endogenous rhythms, in which internal clocks guide the timing of activity, help 
 #### Progression of nightly moonlight illuminance across a lunar cycle. Nocturnal animals must track this complex, shifting lightscape from one night to the next to optimally allocate activity.
 
 
-![lunar_plot.jpg](../_portfolio/m_rsbl.2026.22.issue-4.cover.jpg "lunar_plot.jpg"){: width="400" }
+![lunar_plot.jpg](../_portfolio/m_rsbl.2026.22.issue-4.cover.jpg "lunar_plot.jpg"){: width="450" }
 
-#### Biology Letters cover, Volume 22, Issue 4, April 2026. Sand knifefish nighttime emergence involves an endogenous rhythm that operates around the lunar cycle.
+#### [Biology Letters cover](https://royalsocietypublishing.org/rsbl/article/22/4/20250704/481167/Timescapes-of-fear-exogenous-and-endogenous), Volume 22, Issue 4, April 2026. Sand knifefish nighttime emergence involves an endogenous rhythm that operates around the lunar cycle.
