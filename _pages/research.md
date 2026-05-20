@@ -10,7 +10,6 @@ redirect_from:
 # Sensory ecology
 ## 1) Sensory traits shape nocturnal activity patterns
 <p>Electric fish are nocturnal and rely mainly on self-generated electrolocation signals to navigate and forage, so most species have small eyes. Yet in small rainforest streams, eye size varies among species, suggesting that some species also use vision when moonlight is available. Across four species, larger eyes predicted weaker moonlight avoidance: the largest-eyed species remained active throughout the lunar cycle, likely using vision to detect and evade predators, whereas small-eyed species reduced activity during moonlit periods. These results show how sensory traits shape nocturnal behavior and ecological interactions.</p>
-<br>
 
 ![rondoni_forage.gif](../_portfolio/rondoni_forage.gif "rondoni_forage.gif"){: width="450" }
 ### Infrared footage of a wild sand knifefish foraging in the dark.
