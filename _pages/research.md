@@ -48,4 +48,4 @@ Coverage in [BBC Wildlife](https://www.discoverwildlife.com/animal-facts/electri
 <br>
 ![lunar_plot.jpg](../_portfolio/m_rsbl.2026.22.issue-4.cover.jpg "lunar_plot.jpg"){: width="350" }
 
-*[Biology Letters cover](https://royalsocietypublishing.org/rsbl/article/22/4/20250704/481167/Timescapes-of-fear-exogenous-and-endogenous), Volume 22, Issue 4, April 2026. Sand knifefish nighttime emergence involves an endogenous rhythm that operates around the lunar cycle.*
+<small><strong>[Biology Letters cover](https://royalsocietypublishing.org/rsbl/article/22/4/20250704/481167/Timescapes-of-fear-exogenous-and-endogenous), Volume 22, Issue 4, April 2026. Sand knifefish nighttime emergence involves an endogenous rhythm that operates around the lunar cycle.<small><strong>
