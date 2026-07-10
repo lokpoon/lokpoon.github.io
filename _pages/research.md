@@ -23,7 +23,7 @@ redirect_from:
 <small><strong>Sand knifefish nighttime activity across a lunar cycle. Each row represents one night; black areas show fish activity, and the heatmap shows moonlight illuminance.<small><strong>
 ## 3) Signaling, detection, and stealth in predator-prey interactions
 <p>For animals that use active sensing, such as echolocation and electrolocation, the signals used to sense the world can also reveal them. This trade-off is especially important in predator-prey systems where both sides share the same active sense and can intercept each other’s signals. In Amazonian streams, electric eels and knifefish both reduce this risk by briefly going electrically silent, showing how active sensing systems can shift between detection and stealth.</p>
-Coverage in [BBC Wildlife](https://www.discoverwildlife.com/animal-facts/electric-eel-signal-suppression).
+Coverage in [BBC Wildlife](https://www.discoverwildlife.com/animal-facts/electric-eel-signal-suppression) & [UCF News](https://www.ucf.edu/news/what-electric-eels-and-knifefish-reveal-about-the-science-of-stealth/).
 <br>
 <br>
 ![graphicalabstract.jpg](../_portfolio/graphicabstract.jpg){: width="450" }<br>
